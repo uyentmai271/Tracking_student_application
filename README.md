@@ -25,7 +25,7 @@ The system includes three core database tables:
 ## Installation and Setup
 
 ### Prerequisites
-- Microsoft SQL Server (2019 or later recommended)
+- Microsoft SQL Server
 - SQL Server Management Studio
 
 ### Installation Steps
